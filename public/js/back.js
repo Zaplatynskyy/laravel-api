@@ -37328,15 +37328,27 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 /***/ }),
 
+/***/ "./resources/sass/front.scss":
+/*!***********************************!*\
+  !*** ./resources/sass/front.scss ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ 0:
-/*!***************************************************************!*\
-  !*** multi ./resources/js/back.js ./resources/sass/back.scss ***!
-  \***************************************************************/
+/*!*******************************************************************************************!*\
+  !*** multi ./resources/js/back.js ./resources/sass/back.scss ./resources/sass/front.scss ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! C:\Users\User\Desktop\boolean-full\esercizi\php\laravel-api\resources\js\back.js */"./resources/js/back.js");
-module.exports = __webpack_require__(/*! C:\Users\User\Desktop\boolean-full\esercizi\php\laravel-api\resources\sass\back.scss */"./resources/sass/back.scss");
+__webpack_require__(/*! C:\Users\User\Desktop\boolean-full\esercizi\php\laravel-api\resources\sass\back.scss */"./resources/sass/back.scss");
+module.exports = __webpack_require__(/*! C:\Users\User\Desktop\boolean-full\esercizi\php\laravel-api\resources\sass\front.scss */"./resources/sass/front.scss");
 
 
 /***/ })
